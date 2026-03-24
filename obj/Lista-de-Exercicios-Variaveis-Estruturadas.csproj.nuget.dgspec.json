@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\Git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\Git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj": {
+    "C:\\Users\\aluno\\Desktop\\git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj",
         "projectName": "Lista-de-Exercicios-Variaveis-Estruturadas",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\Git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\git\\Lista-de-Exercicios-Variaveis-Estruturadas\\Lista-de-Exercicios-Variaveis-Estruturadas.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\Git\\Lista-de-Exercicios-Variaveis-Estruturadas\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\git\\Lista-de-Exercicios-Variaveis-Estruturadas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

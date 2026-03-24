@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista-de-Exercicios-Variaveis-Estruturadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b559230f422955ebadbe07f95a462f9787f9ffbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe5772a1ddd26d96a5dec141f2c13f6a0411ebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista-de-Exercicios-Variaveis-Estruturadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista-de-Exercicios-Variaveis-Estruturadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
