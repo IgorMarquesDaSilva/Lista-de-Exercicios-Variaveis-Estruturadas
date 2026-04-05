@@ -19,18 +19,22 @@
 //             }
 //             int maior1 = -9999999;
 //             int maior2 = -9999999;
-
+//             int posicao1 = 0;
+//             int posicao2 = 0;
 //             for(int i = 0; i < num; i++){
 //                 if(vetor[i] > maior1){
 //                     maior2 = maior1;
+//                     posicao2 = posicao1;
 //                     maior1 = vetor[i];
+//                     posicao1 = i;
 //                 }else if(vetor[i] > maior2){
 //                     maior2 = vetor[i];
+//                     posicao2 = i;
 //                 }
 //             }
 
-//             Console.WriteLine($"Maior 1: {maior1}");
-//             Console.WriteLine($"Maior 2: {maior2}");
+//             Console.WriteLine($"Maior 1: {maior1}, Posicao: {posicao1}");
+//             Console.WriteLine($"Maior 2: {maior2}, Posicao: {posicao2}");
 //         }
 //     }
 // }

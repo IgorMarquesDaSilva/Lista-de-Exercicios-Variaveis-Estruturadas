@@ -13,3 +13,18 @@ C:\Users\aluno\Desktop\Git\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\
 C:\Users\aluno\Desktop\Git\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.pdb
 C:\Users\aluno\Desktop\Git\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.genruntimeconfig.cache
 C:\Users\aluno\Desktop\Git\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\ref\Lista-de-Exercicios-Variaveis-Estruturadas.dll
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.sourcelink.json
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.dll
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\refint\Lista-de-Exercicios-Variaveis-Estruturadas.dll
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.pdb
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\bin\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.exe
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\bin\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.deps.json
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\bin\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.runtimeconfig.json
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\bin\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.dll
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\bin\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.pdb
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\Lista-de-Exercicios-Variaveis-Estruturadas.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Git 2\Lista-de-Exercicios-Variaveis-Estruturadas\obj\Debug\net8.0\ref\Lista-de-Exercicios-Variaveis-Estruturadas.dll
